@@ -1,5 +1,8 @@
 # Twitter-Data-Analysis.
 
-With the COVID-19 consequences we tried to understand the trends in the data based on trending keywords.<br>
-We further performed clustering of the data using K mean clustering.
-
+•	Extracting Twitter data , Pre-processing and mining for trending keywords.<br>
+•	Calculate word frequencies to understand how often the words are used in the tweets.<br>
+•	Clustering of the Twitter data to understand the similarity in the keywords.   <br><br>
+Environment: Python(matplotlib , seaborn , nltk).<br>
+<br><br>
+With the current COVID-19 pandemic consequences we tried to understand how "recession" is trending over twitter.
